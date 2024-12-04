@@ -1,0 +1,14 @@
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\bin\Debug\net8.0\MovingZeros.exe
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\bin\Debug\net8.0\MovingZeros.deps.json
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\bin\Debug\net8.0\MovingZeros.runtimeconfig.json
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\bin\Debug\net8.0\MovingZeros.dll
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\bin\Debug\net8.0\MovingZeros.pdb
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\MovingZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\MovingZeros.AssemblyInfoInputs.cache
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\MovingZeros.AssemblyInfo.cs
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\MovingZeros.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\MovingZeros.dll
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\refint\MovingZeros.dll
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\MovingZeros.pdb
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\MovingZeros.genruntimeconfig.cache
+C:\Users\sokol\source\repos\MovingZeros\MovingZeros\obj\Debug\net8.0\ref\MovingZeros.dll
